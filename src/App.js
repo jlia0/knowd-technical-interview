@@ -1,4 +1,6 @@
 import './App.css';
+import {SiGmail, SiStripe, SiAmazon} from "react-icons/si";
+import {Stripe, Gmail, Alexa} from "./dataset";
 
 function App() {
     return (
